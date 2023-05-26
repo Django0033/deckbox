@@ -1,0 +1,19 @@
+//name: Controlled Burn
+2 Gelectrode
+4 Glacial Ray
+2 Goblin Electromancer
+3 Guttersnipe
+2 Ire of Kaminari
+12 Island
+4 Izzet Boilerworks
+8 Mountain
+3 Peer Through Depths
+3 Psychic Puppetry
+4 Reach Through Mists
+2 Sift Through Sands
+1 The Unspeakable
+4 Thermo-Alchemist
+2 Toils of Night and Day
+4 Veil of Secrecy
+
+

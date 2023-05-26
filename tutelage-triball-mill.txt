@@ -1,0 +1,23 @@
+//name: Tutelage Triball Mill
+3 Ashiok, Dream Render
+1 Blink of an Eye
+4 Censor
+4 Frantic Inventory
+16 Island
+4 Mystic Sanctuary
+4 Remand
+4 Serum Visions
+4 Sphinx's Tutelage
+4 Teferi's Tutelage
+4 Thing in the Ice
+4 Thought Scour
+4 Visions of Beyond
+
+Sideboard
+3 Damping Sphere
+1 Disdainful Stroke
+2 Dismember
+2 Echoing Truth
+2 Engulf the Shore
+1 Negate
+4 Relic of Progenitus

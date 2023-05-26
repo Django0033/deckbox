@@ -1,0 +1,90 @@
+ //name: Tuvasa the Sunlit
+
+Commander: 
+1 Tuvasa the Sunlit
+
+Main: 
+1 Aqueous Form
+1 Eidolon of Blossoms
+1 Verduran Enchantress
+1 Vow of Duty
+1 Dawn's Reflection
+1 Seaside Citadel
+1 Tranquil Cove
+1 Evolving Wilds
+1 Eel Umbra
+1 Aether Tunnel
+1 Banishing Light
+2 Island
+1 Terramorphic Expanse
+1 Arrest
+1 Cast Out
+1 Spectral Grasp
+1 Unquestioned Authority
+1 Fertile Ground
+1 Spirit Link
+1 Conclave Tribunal
+1 Battle Mastery
+1 Ancestral Mask
+1 Woodland Stream
+1 Selesnya Guildgate
+1 Vow of Wildness
+1 Creeping Renaissance
+1 Canopy Cover
+1 Ever-Watching Threshold
+1 Indestructibility
+1 Ethereal Armor
+1 Serra's Blessing
+1 Wild Growth
+1 Meandering River
+1 Herald of the Pantheon
+1 Stasis Snare
+1 Winds of Rath
+1 Always Watching
+1 Brave the Sands
+1 Crystal Chimes
+1 Enchantress's Presence
+1 Armadillo Cloak
+1 Spider Umbra
+1 Finest Hour
+1 Nylea's Colossus
+1 Eland Umbra
+1 Oblivion Ring
+1 Vow of Flight
+1 Abundance
+1 Gift of Paradise
+1 Seal Away
+1 Mesa Enchantress
+1 Abundant Growth
+8 Forest
+1 Snake Umbra
+1 Simic Guildgate
+1 Azorius Guildgate
+1 Warped Landscape
+1 Lawmage's Binding
+1 Helm of the Gods
+1 On Serra's Wings
+1 Elfhame Palace
+1 Weirding Wood
+1 Duelist's Heritage
+1 Verdant Haven
+1 New Horizons
+1 Sigil of the Empty Throne
+1 Rogue's Passage
+1 Flickerform
+1 Mask of Law and Grace
+1 Graypelt Refuge
+1 Overgrowth
+1 Urban Utopia
+1 Satyr Enchanter
+1 Octopus Umbra
+1 Thornwood Falls
+1 Sejiri Refuge
+1 Hyena Umbra
+1 Tranquil Expanse
+1 Sphere of Safety
+1 Unflinching Courage
+1 Spirit Loop
+9 Plains
+1 Blossoming Sands
+

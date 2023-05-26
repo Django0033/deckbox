@@ -1,0 +1,33 @@
+//name: Revenge
+[CREATURES]  
+2 Grim Guardian  
+4 Sythis, Harvest's Hand  
+  
+[INSTANTS]  
+3 Assassin's Trophy  
+  
+[SORCERIES]  
+4 Thoughtseize  
+  
+[ENCHANTMENTS]  
+4 Contaminated Bond  
+4 Contaminated Ground  
+4 Enchantress's Presence  
+4 Ghostly Prison  
+3 Pooling Venom  
+4 Sinister Possession  
+4 Spreading Algae  
+  
+[LANDS]  
+4 Fortified Village  
+4 Overgrown Tomb  
+4 Sunpetal Grove  
+4 Swamp  
+4 Urborg, Tomb of Yawgmoth  
+  
+[SIDEBOARD]  
+4 Abrupt Decay  
+4 Fatal Push  
+3 Inquisition of Kozilek  
+4 Spiteful Returned  
+  

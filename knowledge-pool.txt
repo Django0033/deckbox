@@ -1,0 +1,30 @@
+1 Aether Spellbomb
+2 Azorius Signet
+1 Chronosavant
+1 Condemn
+2 Condescend
+4 Curse of Exhaustion
+1 Elixir of Immortality
+2 Faerie Conclave
+4 Ghost Quarter
+4 Glacial Fortress
+5 Island
+3 Knowledge Pool
+4 Mana Leak
+3 Mind Stone
+3 Path to Exile
+5 Plains
+4 Remand
+1 Rule of Law
+2 Supreme Verdict
+1 Tectonic Edge
+3 Thirst for Knowledge
+4 Tranquil Cove
+
+3 Aether Spellbomb
+1 Day of Judgment
+2 Disenchant
+1 Dispel
+2 Negate
+2 Relic of Progenitus
+4 Timely Reinforcements

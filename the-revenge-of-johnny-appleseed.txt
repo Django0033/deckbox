@@ -1,0 +1,24 @@
+//name: The Revenge of Johnny Appleseed
+3 Assassin's Trophy
+4 Brain Maggot
+4 Contaminated Bond
+4 Contaminated Ground
+3 Destiny Spinner
+3 Enchantress's Presence
+2 Forest
+4 Grim Guardian
+4 Overgrown Tomb
+3 Pooling Venom
+4 Sinister Possession
+4 Spreading Algae
+6 Swamp
+4 Thoughtseize
+4 Urborg, Tomb of Yawgmoth
+4 Verdant Catacombs
+
+Sideboard
+4 Abrupt Decay
+4 Fatal Push
+3 Inquisition of Kozilek
+4 Spiteful Returned
+

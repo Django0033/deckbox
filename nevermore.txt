@@ -1,0 +1,30 @@
+//name: Nevermore
+1 Aetherling
+2 Cast Out
+2 Condemn
+1 Day of Judgment
+3 Detention Sphere
+1 Elspeth, Sun's Champion
+3 Ghost Quarter
+4 Ghostly Prison
+4 Gideon's Intervention
+4 Glacial Fortress
+5 Island
+2 Journey to Nowhere
+4 Nevermore
+2 Path to Exile
+2 Peek
+5 Plains
+2 Port Town
+3 Sphere of Safety
+4 Spreading Seas
+2 Telepathy
+4 Temple of Enlightenment
+
+Sideboard
+2 Blessed Alliance
+2 Condemn
+2 Disenchant
+2 Dispel
+4 Negate
+3 Timely Reinforcements
